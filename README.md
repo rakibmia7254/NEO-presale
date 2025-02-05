@@ -40,7 +40,7 @@ npm run dev
 4. **View Presale Progress** on the dashboard..
 
 ## 🌐 Live Demo
-[Live DApp](https://your-dapp-url.com)
+[Live DApp](https://neo-presale.vercel.app/)
 
 ## 🤝 Contributing
 1. Fork the project.
